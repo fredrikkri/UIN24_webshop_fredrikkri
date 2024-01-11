@@ -2,3 +2,7 @@
     font-size: 60px; 
     color: green;
 }
+
+body {
+    background-image: url("../website_images/mainbackground.png");
+}
